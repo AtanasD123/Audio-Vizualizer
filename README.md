@@ -18,7 +18,9 @@ Turn any WAV track into a hypnotic, 360-degree bar spectrum that ripples and cha
 
 ## Preview
 
-![Radial audio visualizer demo](demo_480.mp4)
+<p align="center">
+  <img src="demo_480.gif" alt="Visualizer demo" width="450">
+</p>
 
 
 ## 🚀 Quick start
