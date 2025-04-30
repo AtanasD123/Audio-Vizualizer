@@ -1,7 +1,7 @@
 # Radial-Beat: A Circular Audio-Spectrum Visualizer  
 *Python • Pygame • Librosa*
 
-Turn any WAV track into a hypnotic, 360-degree bar spectrum that ripples and changes colour with every bass hit.
+Turn any WAV/MP3 track into a hypnotic, 360-degree bar spectrum that ripples and changes colour with every bass hit.
 
 <br/>
 
